@@ -12,3 +12,6 @@
 /captures
 .externalNativeBuild
 .cxx
+
+# Lab notes / understanding doc (local only)
+LAB_UNDERSTANDING.md
